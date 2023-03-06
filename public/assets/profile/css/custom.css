@@ -1,0 +1,101 @@
+.my-profile-title-container {
+    display: grid !important;
+    background: #0001c !important;
+}
+
+.profile-button {
+    float: right !important;
+    background: #333 !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.font-9 {
+    font-size: 9px !important;
+}
+
+.font-10 {
+    font-size: 10px !important;
+}
+
+.font-11 {
+    font-size: 11px !important;
+}
+
+.print-invoice-btn {
+    background: #f5ebe6;
+}
+
+.m-0 {
+    margin: 0 !important;
+}
+.ml-0 {
+    margin-left: 0 !important;
+}
+
+.align-left {
+    text-align: left !important;
+}
+
+.align-right {
+    text-align: right !important;
+}
+
+.align-center {
+    text-align: center !important;
+}
+
+.dark-gray {
+    color: #333 !important;
+}
+
+.light-brown-theme {
+    color: #000 !important;
+}
+
+.light-gray {
+    color: #999 !important;
+}
+
+.light-btn {
+    background: #fff;
+!important;
+    color: #000 !important;
+    border: 1px solid #000 !important;
+    border-radius: 0 !important;
+}
+
+.dark-btn {
+    background: #000 !important;
+    color: #fff;
+!important;
+    border-radius: 0 !important;
+
+}
+
+.bg-yellow-100 {
+    background: #fffcf3 !important;
+}
+
+
+.font-weight-600 {
+    font-weight: 600 !important;
+}
+
+.p-r-0 {
+    padding-right: 0 !important;
+}
+
+.p-2-5-rem {
+    padding: 2.5rem !important;
+}
+
+.order-item-image {
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
+}

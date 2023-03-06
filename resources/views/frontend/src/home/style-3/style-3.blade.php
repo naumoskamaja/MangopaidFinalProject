@@ -1,0 +1,13 @@
+@if(count($sliders)>=1)
+    @include('frontend.src.home.style-3.sections.slider')
+@endif
+@if(count($two_parallel_banners)>=2)
+    @include('frontend.src.home.common.multiple-banners')
+@endif
+@if(count($two_large_banners)>=2)
+    @include('frontend.src.home.style-3.sections.two-banners')
+@endif
+@include('frontend.src.home.style-3.sections.bestsellers')
+@include('frontend.src.home.style-3.sections.sidetext-banner')
+@include('frontend.src.home.style-3.sections.subscribe-section')
+@include('frontend.src.home.common.featured-area')
